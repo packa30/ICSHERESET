@@ -1,7 +1,7 @@
 # ICSHERESET
 
 <dependencies>
-ICSHERESET
+
     <dependency>
         <groupId>com.sun.xml.bind</groupId>
         <artifactId>jaxb-core</artifactId>
@@ -23,4 +23,5 @@ ICSHERESET
   </dependencies>
 
 export JAVA_HOME=/usr/lib/jvm/java-8-openjdk-amd64
+
 
